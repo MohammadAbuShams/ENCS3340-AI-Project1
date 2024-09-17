@@ -19,5 +19,5 @@ Magnetic Cave is played on an 8x8 chessboard with two types of magnetic bricks r
 
 ## Contributors
 
-- [Mohammad Abushams](https://github.com/MohammadAbuShams)
+- [Mohammad AbuShams](https://github.com/MohammadAbuShams)
 - [Faten Sultan](https://github.com/fatenSul)
